@@ -19,3 +19,9 @@ Today’s business objectives are achieved with user research, design, distribut
 | Master SQL, the core language for Big Data analysis, |     Udacity     |        Still in Progress          |
 | Activation and Retention Strategy |     Udacity    |       Still in Progress          |
 
+
+
+## Good Platform 
+
+
+- [Databricks ](https://databricks.com/try-databricks)
