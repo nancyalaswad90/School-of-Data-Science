@@ -24,4 +24,8 @@ Today’s business objectives are achieved with user research, design, distribut
 ## Good Platform 
 
 
+
+- [The Python Standard Library](https://docs.python.org/3/library/stdtypes.html)
+
+
 - [Databricks ](https://databricks.com/try-databricks)
