@@ -10,13 +10,13 @@ Today’s business objectives are achieved with user research, design, distribut
 
 | **School of Data Science** | Organizations | Hand out |
 | ------------ | ------------ | ------------ |
-|  Data Analyst Path |     Udacity  ,     |       Still in Progress       |
-|  Business Analytics |     Udacity  ,     |       Still in Progress       |
-|  Predictive Analytics for Business |     Udacity  ,     |       Still in Progress       |
+|  Data Analyst Path |     Udacity  ,  Manara , Google , W3 School   |       Still in Progress       |
+|  Business Analytics |    Udacity  ,  Manara , Google , W3 School      |       Still in Progress       |
+|  Predictive Analytics for Business |     Udacity  ,  Manara , Google , W3 School       |       Still in Progress       |
 | Product Manager |     Udacity      |      Still in Progress        |
 | Growth Product Manager |     Udacity      |      Still in Progress        |
 | UX Designer |     Udacity  ,     |       Still in Progress       |
-| Master SQL, the core language for Big Data analysis, |     Udacity     |        Still in Progress          |
+| Master SQL, the core language for Big Data analysis, |     Udacity  ,  Manara , Google , W3 School     |        Still in Progress          |
 | Activation and Retention Strategy |     Udacity    |       Still in Progress          |
 
 
