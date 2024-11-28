@@ -34,3 +34,5 @@ Today’s business objectives are achieved with user research, design, distribut
 
 
 - [Manara learning Path](https://app.manara.tech/learning/18/54/232)
+
+- [Health And Sleep Quality Data project](https://learn.udacity.com/paid-courses/cd12638/lessons/af144e8f-ada1-4726-81e3-e69a915d0934/concepts/af144e8f-ada1-4726-81e3-e69a915d0934-submit-project?program_version=construction&program_locale=en-us&lesson_tab=lesson)
